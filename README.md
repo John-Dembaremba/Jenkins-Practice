@@ -1,2 +1,2 @@
 # Jenkins-Practice
-Learning Jenkins
+Learning Jenkins - all fundamentals.
